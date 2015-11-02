@@ -35,10 +35,6 @@ public class MainWindow extends JFrame{
     	this.collapsed = false;
     	this.collapsedWidth = false;
     	
-    	URL iconURL = getClass().getResource("/com/fxforbiz/softphone/assets/img/favicon.png");
-    	ImageIcon icon = new ImageIcon(iconURL);
-    	this.setIconImage(icon.getImage());
-        
         this.setDefaultCloseOperation(WindowConstants.EXIT_ON_CLOSE);
         this.setLocationRelativeTo(null);
         this.setLocation(50, 50);
