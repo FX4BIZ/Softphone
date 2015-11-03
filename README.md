@@ -22,11 +22,12 @@ This project uses some extra package to run :
 * [Java Native Access](https://github.com/java-native-access/jna)
 * [JxBrowser](https://www.teamdev.com/jxbrowser)
 
-**Disclamer**  
-Java Softphone Client uses the JxBrowser [http://www.teamdev.com/jxbrowser](http://www.teamdev.com/jxbrowser), which is a proprietary software. The use of JxBrowser is governed by JxBrowser Product Licence Agreement [http://www.teamdev.com/jxbrowser-licence-agreement](http://www.teamdev.com/jxbrowser-licence-agreement). If you would like to use JxBrowser in your development, please contact TeamDev.
-
 **Contact**  
 If you have any issues or questions about the application please contact [agr@fxforbiz.com](mailto://agr@fxforbiz.com).
+
+**Disclaimer**  
+Java Softphone Client uses the JxBrowser [http://www.teamdev.com/jxbrowser](http://www.teamdev.com/jxbrowser), which is a proprietary software. The use of JxBrowser is governed by JxBrowser Product Licence Agreement available here : [http://www.teamdev.com/jxbrowser-licence-agreement](http://www.teamdev.com/jxbrowser-licence-agreement).  
+ If you would like to use JxBrowser in your development, please contact TeamDev.
 
 **Licence**  
 All parts of the code are free to use, as long as they are used in agreement with dependencies's licences.
